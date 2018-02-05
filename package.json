@@ -1,0 +1,29 @@
+{
+  "name": "joey-ether-wallet",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josudoey/joey-ether-wallet.git"
+  },
+  "keywords": [
+    "ether",
+    "wallet"
+  ],
+  "author": "Joey Fang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josudoey/joey-ether-wallet/issues"
+  },
+  "homepage": "https://github.com/josudoey/joey-ether-wallet#readme",
+  "dependencies": {
+    "commander": "^2.13.0",
+    "ethjs": "^0.3.3",
+    "globby": "^7.1.1",
+    "web3": "^0.20.4"
+  }
+}
