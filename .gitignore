@@ -1,0 +1,11 @@
+node_modules
+.wallet
+truffle
+
+*.swp
+*.swo
+*.log
+*.swn
+
+# others
+.DS_Store
