@@ -22,6 +22,7 @@
   "homepage": "https://github.com/josudoey/joey-ether-wallet#readme",
   "dependencies": {
     "commander": "^2.13.0",
+    "ethereumjs-util": "^5.1.3",
     "ethjs": "^0.3.3",
     "globby": "^7.1.1",
     "web3": "^0.20.4"
